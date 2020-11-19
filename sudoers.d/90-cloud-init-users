@@ -1,0 +1,4 @@
+# Created by cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 on Mon, 09 Nov 2020 17:07:08 +0000
+
+# User rules for han
+han ALL=(ALL) NOPASSWD:ALL
